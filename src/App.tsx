@@ -28,7 +28,7 @@ ChartJS.register(
 );
 
 const endpoint =
-  "https://script.google.com/macros/s/AKfycbxfk15a9cvKnnAmv0-Eiq0BWjWpr27bkJVArEEeX1BuWFeUUi7Ue5ilDac3DDPrBE35EQ/exec";
+  "https://script.google.com/macros/s/AKfycbyTSQPp-yUYVk3hFI5y_qTnxFN756jhMLzaFdKjl1CA4F6bAVO9DxRg3jtnvtKIVxXlyw/exec";
 const SHEET_SEMESTER1 = "RekapSemester1";
 const SHEET_SEMESTER2 = "RekapSemester2";
 
@@ -3620,7 +3620,7 @@ const SplashScreen: React.FC = () => {
         className="w-52 h-70 mb-4 animate-pulse-custom" //Pengaturan ukuran logo
       />
       <p className="text-gray-800 text-lg font-semibold mt-6">
-        Munassir, S.Pd
+        Munassir, S.Pd.I
       </p>
     </div>
   );
